@@ -1,4 +1,4 @@
-# Top Full-Stack 🚀Talent in Blockchain & Web
+# Top Full-Stack 🚀Talent in Web Development
 
 
 
@@ -11,13 +11,13 @@
 🚀My current stack:
 
 
-✔Web apps: Angular2+, VueJS, ReactJS, HTML/CSS/SCSS
+✔Web apps: ReactJS, Angular, VueJS, Material UI, HTML/CSS/SCSS
 
 ✔backend: NodeJS, Express, Hapi, Nest.JS, PHP(Laravel, wordpress, CodeIgnitor).
 
 ✔Cloud: AWS/AWS Lambda, S3, RDS, Firebase, Azure
 
-✔DB: Mysql, MsSQL, Postgres, MongoDB, Firebase
+✔DB: Mysql, MongoDB, MsSQL, Postgres, Firebase
 
 
 🙈I am interested in:
