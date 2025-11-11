@@ -13,6 +13,8 @@
 
 ✔Web apps: ReactJS, Angular, VueJS, Material UI, HTML/CSS/SCSS
 
+✔Mobile apps: React Native, Dart, Flutter, Kotlin
+
 ✔backend: NodeJS, Express, Hapi, Nest.JS, PHP(Laravel, wordpress, CodeIgnitor).
 
 ✔Cloud: AWS/AWS Lambda, S3, RDS, Firebase, Azure
