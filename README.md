@@ -15,28 +15,30 @@
 
 ✔Mobile apps: React Native, Dart, Flutter, Kotlin
 
-✔backend: NodeJS, Express, Hapi, Nest.JS, PHP(Laravel, wordpress, CodeIgnitor).
+✔backend: Python, C#/.NET, NodeJS, Express, Hapi, Nest.JS, PHP(Laravel, wordpress, CodeIgnitor).
 
 ✔Cloud: AWS/AWS Lambda, S3, RDS, Firebase, Azure
 
 ✔DB: Mysql, MongoDB, MsSQL, Postgres, Firebase
 
 
-🙈I am interested in:
+👨‍💻 What I'm Interested In
 
+✔ Building end-to-end products across web, mobile, backend, and cloud environments
 
-✔ Developing mobile, front-end and back-end applications
+✔ Creating modern, high-performance frontends with React, Angular, Vue.js, TypeScript and modern JavaScript
 
-✔ Rich front-end projects with Angular2+ or Vue, React
+✔ Developing scalable backend systems and APIs with Python, Node.js, NestJS, PHP and C#/.NET
 
-✔ Cross-platform native mobile apps managed by JavaScript
+✔ Building cross-platform mobile experiences with React Native and FlutterFlow
 
-✔ Building scalable and performance back-end on NodeJS,PHP
+✔ Designing scalable architectures with REST APIs, microservices, databases, caching, messaging and distributed systems
 
-✔ Growing startup in a “Getting Real” way
+✔ Integrating AI into real-world products, from intelligent workflows and automation to LLM-powered applications
 
-✔ JavaScript: ES6, TypeScript, CoffeeScript.
+✔ Taking products from idea to production, balancing rapid iteration with maintainability, performance and reliability
 
+✔ Helping startups move fast without sacrificing engineering quality, with pragmatic architecture and a product-first mindset
 <!---
 heracules1020/heracules1020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
